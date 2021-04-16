@@ -129,30 +129,4 @@
          45
       ]
    },
-       {
-      "slotNumber":5,
-      "isThere":1,
-      "isPercent":10,
-      "powerData":[
-         23,
-         13,
-         23,
-         18,
-         17
-      ],
-      "voltageData":[
-         45,
-         46,
-         45,
-         45,
-         45
-      ],
-      "percentageData":[
-         87,
-         46,
-         45,
-         45,
-         45
-      ]
-   }
 ]
