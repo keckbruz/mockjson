@@ -1,5 +1,5 @@
-{
-    "Slot0":{
+[
+    {
       "slotNumber":0,
       "isThere":1,
       "isPercent":78,
@@ -25,7 +25,7 @@
          45
       ]
    },
-   "Slot1":{
+   {
       "slotNumber":1,
       "isThere":1,
       "isPercent":78,
@@ -51,7 +51,7 @@
          45
       ]
    },
-   "Slot2":{
+   {
       "slotNumber":2,
       "isThere":1,
       "isPercent":35,
@@ -77,7 +77,7 @@
          45
       ]
    },
-   "Slot3":{
+   {
       "slotNumber":3,
       "isThere":1,
       "isPercent":20,
@@ -103,7 +103,7 @@
          45
       ]
    },
-   "Slot4":{
+  {
       "slotNumber":4,
       "isThere":1,
       "isPercent":10,
