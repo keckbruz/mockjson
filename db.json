@@ -1,6 +1,5 @@
 {
-    "0":{
-       "slotNumber":0,
+   "Slot1":{
       "isThere":1,
       "isPercent":78,
       "powerData":[
@@ -25,35 +24,7 @@
          45
       ]
    },
-   
-   "1":{
-      "slotNumber":1,
-      "isThere":1,
-      "isPercent":78,
-      "powerData":[
-         21,
-         16,
-         23,
-         16,
-         18
-      ],
-      "voltageData":[
-         45,
-         46,
-         45,
-         45,
-         45
-      ],
-      "percentageData":[
-         87,
-         46,
-         45,
-         45,
-         45
-      ]
-   },
-   "2":{
-      "slotNumber":2,
+   "Slot2":{
       "isThere":1,
       "isPercent":35,
       "powerData":[
@@ -78,8 +49,7 @@
          45
       ]
    },
-   "3":{
-      "slotNumber":3,
+   "Slot3":{
       "isThere":1,
       "isPercent":20,
       "powerData":[
@@ -104,8 +74,7 @@
          45
       ]
    },
-   "4":{
-      "slotNumber":4,
+   "Slot4":{
       "isThere":1,
       "isPercent":10,
       "powerData":[
@@ -130,8 +99,7 @@
          45
       ]
    },
-   "5":{
-      "slotNumber":5,
+   "Slot5":{
       "isThere":1,
       "isPercent":70,
       "powerData":[
