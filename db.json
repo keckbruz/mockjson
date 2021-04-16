@@ -28,7 +28,7 @@
       "percentageData": [87,46,45,45,45],
     },
   
-    "Slot4": [
+    "Slot4": 
     {
       "isThere": 1,
       "isPercent": 10,
@@ -37,7 +37,7 @@
       "percentageData": [87,46,45,45,45],
     },
   
-    "Slot5": [
+    "Slot5": 
     {
       "isThere": 1,
       "isPercent": 70,
