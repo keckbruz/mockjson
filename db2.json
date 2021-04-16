@@ -1,5 +1,5 @@
 {
-    "total":{
+    "0":{
        "slotNumber":0,
       "isThere":1,
       "isPercent":78,
@@ -26,7 +26,7 @@
       ]
    },
    
-   "slot1":{
+   "1":{
       "slotNumber":1,
       "isThere":1,
       "isPercent":78,
@@ -52,7 +52,7 @@
          45
       ]
    },
-   "slot2":{
+   "2":{
       "slotNumber":2,
       "isThere":1,
       "isPercent":35,
@@ -78,8 +78,8 @@
          45
       ]
    },
-   "slot3":{
-      "slotNumber":2,
+   "3":{
+      "slotNumber":3,
       "isThere":1,
       "isPercent":20,
       "powerData":[
@@ -104,8 +104,8 @@
          45
       ]
    },
-   "slot4":{
-      "slotNumber":2,
+   "4":{
+      "slotNumber":4,
       "isThere":1,
       "isPercent":10,
       "powerData":[
@@ -130,8 +130,8 @@
          45
       ]
    },
-   "slot5":{
-      "slotNumber":2,
+   "5":{
+      "slotNumber":5,
       "isThere":1,
       "isPercent":70,
       "powerData":[
