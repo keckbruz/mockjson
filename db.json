@@ -1,49 +1,25 @@
 {
-  "Slot1": 
-  {
-      "isThere": 1,
-      "isPercent": 78,
-      "powerData": [21,16,23,16,18],
-      "voltageData": [45,46,45,45,45],
-      "percentageData": [87,46,45,45,45],
-    },
-  
-  
-  "Slot2": 
+  "posts": [
     {
-      "isThere": 1,
-      "isPercent": 35,
-      "powerData": [15,13,15,16,17],
-      "voltageData": [48,48,49,49,49],
-      "percentageData": [87,46,45,45,45],
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
     },
-  
-  
-  "Slot3": 
     {
-      "isThere": 1,
-      "isPercent": 20,
-      "powerData": [23,13,23,18,17],
-      "voltageData": [42,42,42,43,43],
-      "percentageData": [87,46,45,45,45],
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
     },
-  
-    "Slot4": 
     {
-      "isThere": 1,
-      "isPercent": 10,
-      "powerData": [23,13,23,18,17],
-      "voltageData": [45,46,45,45,45],
-      "percentageData": [87,46,45,45,45],
-    },
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
   
-    "Slot5": 
-    {
-      "isThere": 1,
-      "isPercent": 70,
-      "powerData": [12,13,14,15,16],
-      "voltageData": [43,43,44,45,45],
-      "percentageData": [87,46,45,45,45],
-    },
-  
+  "profile": {
+    "name": "Profile 1"
+  }
 }
+
+
